@@ -9,10 +9,13 @@ export const siteConfig = {
       title: "Home",
       href: "/",
     },
+    {
+      title: "Login",
+      href: "/login",
+    },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
+    github: "https://github.com/saphitv/GestionaleOre",
     docs: "https://ui.shadcn.com",
   },
 }
